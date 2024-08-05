@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "baseUrl": "src",
+    "paths": {
+      "components/*": ["components/*"],
+      "Cart/*": ["components/Cart/*"],
+      "slices/*": ["store/slices"]
+    }
+  },
+  "exclude": ["node_modules", "build"]
+}

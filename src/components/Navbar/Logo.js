@@ -19,7 +19,7 @@ function NavbarLogo() {
       }}
     >
       <Link to="/Home">
-        <h3 className="logo">APNA SHOP</h3>
+        <h3 className="logo">APNA Hi He</h3>
       </Link>
     </Typography>
   );
